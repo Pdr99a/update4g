@@ -1,13 +1,4 @@
-{
-  "Version": "1.0.0",
-  "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/Pdr99a/update4g/main/config.json",
-  "Sms": "6",
-  "EmailFeedback": "",
-  "UrlContato": "",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
-  "Udp": [
+[
     {
       "Porta": "7300"
     }
