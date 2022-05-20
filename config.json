@@ -27,7 +27,7 @@
   ],
   "Networks": [
     {
-      "Name": "Vivo SSL",
+      "Name": "Vivo",
       "FLAG": "vivo",
       "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1[crlf]Host: brasil.phsa.xyz[crlf]Upgrade: ws [crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
