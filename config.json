@@ -61,7 +61,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: Brasil.phsa.xyz[crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "TlsIP": "no.descomplica.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
